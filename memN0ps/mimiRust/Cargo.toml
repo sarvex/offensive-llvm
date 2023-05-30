@@ -18,7 +18,7 @@ des = "0.0.2"
 regex = "1.5.4"
 clap = { version = "3.0.5", features = ["derive"] }
 whoami = "1.2.1"
-md-5 = "0.10.1"
+md-5 = "0.10.5"
 console = "0.15.7"
 
 [profile.release]
