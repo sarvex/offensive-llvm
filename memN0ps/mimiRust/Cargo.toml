@@ -8,7 +8,7 @@ winapi = { version = "0.3", features = ["bcrypt", "winnt", "minwindef", "ntdef",
 winreg = "0.10.1"
 kernel32-sys = "0.2.2"
 memsec = "0.6.3"
-libc = "0.2.15"
+libc = "0.2.144"
 byteorder = "1.4.3"
 sysinfo = "0.15.3"
 anyhow = "1.0"
