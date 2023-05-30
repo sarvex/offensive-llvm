@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-libaes = "0.6.1"
+libaes = "0.6.5"
 itertools = "0.10.5"
