@@ -13,7 +13,7 @@ byteorder = "1.4.3"
 sysinfo = "0.15.3"
 anyhow = "1.0"
 aes = "0.8.2"
-block-modes = "0.8.1"
+block-modes = "0.9.1"
 des = "0.0.2"
 regex = "1.5.4"
 clap = { version = "3.0.5", features = ["derive"] }
