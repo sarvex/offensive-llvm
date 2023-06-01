@@ -22,7 +22,7 @@ log = "0.4.18"
 bstr = { version = "0.2.17", default-features = false}
 kernel-log = "0.1.2"
 kernel-print = "0.1.0"
-kernel-alloc = "0.1.0"
+kernel-alloc = "0.2.1"
 obfstr = "0.3.0"
 modular-bitfield = "0.11.2"
 common = { path = "../common" }
