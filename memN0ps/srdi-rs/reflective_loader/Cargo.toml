@@ -16,7 +16,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 ntapi = "0.3.7"
-obfstr = "0.3.0"
+obfstr = "0.4.3"
 
 [dependencies.windows-sys]
 version = "0.48.0"

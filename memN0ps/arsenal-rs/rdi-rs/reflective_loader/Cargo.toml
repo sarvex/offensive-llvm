@@ -20,7 +20,7 @@ ntapi = "0.3.7"
 wchar = "0.11.0"
 log = "0.4.18"
 env_logger = "0.10.0"
-obfstr = "0.3.0"
+obfstr = "0.4.3"
 utf16_literal = "0.2.1"
 
 [dependencies.num-traits]
