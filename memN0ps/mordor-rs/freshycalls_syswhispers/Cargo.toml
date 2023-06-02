@@ -16,7 +16,7 @@ env_logger = "0.10.0"
 log = "0.4.18"
 sysinfo = "0.29.0"
 obfstr = "0.4.3"
-ntapi = { version = "0.4.0", features = ["impl-default"] }
+ntapi = { version = "0.4.1", features = ["impl-default"] }
 
 [dependencies.windows-sys]
 version = "0.48.0"
