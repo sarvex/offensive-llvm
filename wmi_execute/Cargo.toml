@@ -6,4 +6,4 @@ author = "trickster0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-wmi = "0.13.0"
+wmi = "0.13.1"
