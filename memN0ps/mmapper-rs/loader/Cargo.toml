@@ -13,4 +13,4 @@ winapi = { version = "0.3.9", features = ["processthreadsapi", "memoryapi", "win
 sysinfo = "0.29.4"
 clap = { version = "4.3.12", features = ["derive"] }
 ureq = "2.7.1"
-anyhow = "1.0.71"
+anyhow = "1.0.72"
