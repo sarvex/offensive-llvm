@@ -11,6 +11,6 @@ name = "loader"
 [dependencies]
 winapi = { version = "0.3.9", features = ["processthreadsapi", "memoryapi", "winbase", "impl-default", "errhandlingapi", "handleapi", "winuser", "heapapi", "impl-default"] }
 sysinfo = "0.29.5"
-clap = { version = "4.3.12", features = ["derive"] }
+clap = { version = "4.3.14", features = ["derive"] }
 ureq = "2.7.1"
 anyhow = "1.0.72"
