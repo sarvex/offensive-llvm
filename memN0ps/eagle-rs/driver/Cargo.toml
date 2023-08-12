@@ -18,7 +18,7 @@ panic = "abort"
 
 [dependencies]
 ntapi = { version = "0.4.1", default-features = false}
-log = "0.4.19"
+log = "0.4.20"
 bstr = { version = "1.6.0", default-features = false}
 kernel-log = "0.1.2"
 kernel-print = "0.1.0"
