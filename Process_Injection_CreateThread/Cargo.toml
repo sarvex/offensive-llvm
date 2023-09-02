@@ -19,4 +19,4 @@ winapi = {version = "0.3.9", features=[
 ]}
 winreg = "0.51"
 argparse = "0.2.2"
-clap = "4.4.1"
+clap = "4.4.2"
