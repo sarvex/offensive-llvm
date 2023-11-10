@@ -19,7 +19,7 @@ winapi = { version = "0.3.9", features = ["processthreadsapi", "memoryapi", "win
 ntapi = "0.4.1"
 wchar = "0.11.0"
 log = "0.4.20"
-env_logger = "0.10.0"
+env_logger = "0.10.1"
 obfstr = "0.4.3"
 utf16_literal = "0.2.1"
 
