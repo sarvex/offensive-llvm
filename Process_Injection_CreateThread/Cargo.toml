@@ -17,6 +17,6 @@ winapi = {version = "0.3.9", features=[
     "handleapi",
     "libloaderapi"
 ]}
-winreg = "0.51"
+winreg = "0.52"
 argparse = "0.2.2"
 clap = "4.4.8"
