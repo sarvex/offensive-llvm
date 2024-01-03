@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 env_logger = "0.10.1"
 log = "0.4.20"
-sysinfo = "0.30.3"
+sysinfo = "0.30.4"
 obfstr = "0.4.3"
 ntapi = "0.4.1"
 
