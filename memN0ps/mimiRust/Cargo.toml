@@ -19,7 +19,7 @@ regex = "1.10.2"
 clap = { version = "4.4.14", features = ["derive"] }
 whoami = "1.4.1"
 md-5 = "0.10.6"
-console = "0.15.7"
+console = "0.15.8"
 
 [profile.release]
 panic = 'abort'
