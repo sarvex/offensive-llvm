@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 libaes = "0.7.0"
-itertools = "0.12.0"
+itertools = "0.12.1"
