@@ -14,7 +14,7 @@ _DIRECT_ = []
 [dependencies]
 env_logger = "0.11.2"
 log = "0.4.21"
-sysinfo = "0.30.5"
+sysinfo = "0.30.6"
 obfstr = "0.4.3"
 ntapi = { version = "0.4.1", features = ["impl-default"] }
 
