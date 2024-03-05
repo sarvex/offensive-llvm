@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-env_logger = "0.11.2"
+env_logger = "0.11.3"
 log = "0.4.21"
 sysinfo = "0.30.6"
 obfstr = "0.4.3"
