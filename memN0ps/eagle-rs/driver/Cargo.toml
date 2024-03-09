@@ -20,7 +20,7 @@ panic = "abort"
 ntapi = { version = "0.4.1", default-features = false}
 log = "0.4.21"
 bstr = { version = "1.9.1", default-features = false}
-kernel-log = "0.1.2"
+kernel-log = "0.1.3"
 kernel-print = "0.1.0"
 kernel-alloc = "0.2.3"
 obfstr = "0.4.3"
