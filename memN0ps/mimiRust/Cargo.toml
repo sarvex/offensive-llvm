@@ -16,7 +16,7 @@ aes = "0.8.4"
 block-modes = "0.9.1"
 des = "0.8.1"
 regex = "1.10.4"
-clap = { version = "4.5.3", features = ["derive"] }
+clap = { version = "4.5.4", features = ["derive"] }
 whoami = "1.5.1"
 md-5 = "0.10.6"
 console = "0.15.8"
