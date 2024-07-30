@@ -19,7 +19,7 @@ obfstr = "0.4.3"
 ntapi = "0.4.1"
 
 [dependencies.windows-sys]
-version = "0.52.0"
+version = "0.59.0"
 features = [
     "Win32_Foundation",
     "Win32_Security",
