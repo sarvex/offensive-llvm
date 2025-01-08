@@ -36,5 +36,5 @@ features = [
 ]
 
 [build-dependencies]
-winreg = "0.52.0"
+winreg = "0.53.0"
 failure = "0.1.8"
